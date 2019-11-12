@@ -1,0 +1,65 @@
+{
+    "post": [
+        {
+            "name": "Nguyen Van A",
+            "location": {
+                "city": "",
+                "state": ""
+            },
+            "profileImage": "BMW",
+            "statusText": "BMW car prices start(GST Included) at Rs 35.2 Lakh for the most inexpensive model in its lineup, the X1. The most expensive car in BMW's lineup is the M Series, priced at Rs. 1.54 Cr for its top variant. In total, BMW has 14 models on sale in India. The BMW X1, BMW Z4, BMW X7 are amongst the most popular cars in their respective segments. Upcoming BMW cars in India include the 8 Series,i3,X6 2020,2 Series.",
+            "statusImage": "",
+            "numbLikes": 403,
+            "numbComments": 2006,
+            "information": ""
+        },{
+            "name": "",
+            "location": {
+                "city": "",
+                "state": ""
+            },
+            "profileImage": "",
+            "statusText": "",
+            "statusImage": "",
+            "numbLikes": 403,
+            "numbComments": 2006,
+            "information": ""
+        },{
+            "name": "",
+            "location": {
+                "city": "",
+                "state": ""
+            },
+            "profileImage": "",
+            "statusText": "",
+            "statusImage": "",
+            "numbLikes": 403,
+            "numbComments": 2006,
+            "information": ""
+        },{
+            "name": "",
+            "location": {
+                "city": "",
+                "state": ""
+            },
+            "profileImage": "",
+            "statusText": "",
+            "statusImage": "",
+            "numbLikes": 403,
+            "numbComments": 2006,
+            "information": ""
+        },{
+            "name": "",
+            "location": {
+                "city": "",
+                "state": ""
+            },
+            "profileImage": "",
+            "statusText": "",
+            "statusImage": "",
+            "numbLikes": 403,
+            "numbComments": 2006,
+            "information": ""
+        }
+    ]
+}
